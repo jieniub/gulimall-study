@@ -1,0 +1,10 @@
+# 项目排除路径
+/gulimall-common/target/
+/mall-coupon/target/
+/mall-gateway/target/
+/mall-member/target/
+/mall-order/target/
+/mall-product/target/
+/mall-third-party/target/
+/mall-ware/target/
+/renren/target/
